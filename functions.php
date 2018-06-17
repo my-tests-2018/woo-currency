@@ -31,6 +31,14 @@ $finalPrice = (1- ($percent/100)) * $price;
 
 echo calculateDiscount(1600000,23);
 
+function  printData ($data){
+
+    print $data
+}
+
+
+
+
 
 
 ?>
